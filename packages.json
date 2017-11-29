@@ -749,6 +749,22 @@
     "repo": "https://github.com/slamdata/purescript-halogen-css.git",
     "version": "v7.0.0"
   },
+  "halogen-datepicker": {
+    "dependencies": [
+      "enums",
+      "formatters",
+      "datetime",
+      "halogen",
+      "halogen-css",
+      "generics-rep",
+      "validation",
+      "profunctor",
+      "numbers",
+      "these"
+    ],
+    "repo": "https://github.com/slamdata/purescript-halogen-datepicker.git",
+    "version": "v0.1.0"
+  },
   "halogen-echarts": {
     "dependencies": [
       "halogen-css",
