@@ -773,6 +773,20 @@
     "repo": "https://github.com/slamdata/purescript-halogen-echarts.git",
     "version": "v12.0.0"
   },
+  "halogen-markdown": {
+    "dependencies": [
+      "halogen-datepicker",
+      "browserfeatures",
+      "halogen",
+      "markdown",
+      "prelude",
+      "sets",
+      "strongcheck",
+      "validation"
+    ],
+    "repo": "https://github.com/slamdata/purescript-markdown-halogen.git",
+    "version": "v8.0.1"
+  },
   "halogen-vdom": {
     "dependencies": [
       "prelude",
