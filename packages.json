@@ -172,6 +172,17 @@
     "repo": "https://github.com/purescript/purescript-bifunctors.git",
     "version": "v3.0.0"
   },
+  "browserfeatures": {
+    "dependencies": [
+      "dom",
+      "exceptions",
+      "maps",
+      "prelude",
+      "refs"
+    ],
+    "repo": "https://github.com/slamdata/purescript-browserfeatures.git",
+    "version": "v4.0.0"
+  },
   "canvas": {
     "dependencies": [
       "eff",
